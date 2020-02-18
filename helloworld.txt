@@ -1,4 +1,2 @@
 Name - Iqbal
 Address - Bandung
-Phone - 12345678
-hobby - assa
